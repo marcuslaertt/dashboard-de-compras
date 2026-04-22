@@ -35,20 +35,8 @@ O objetivo é transformar dados em insights estratégicos para apoiar a tomada d
 - Variação significativa ao longo dos meses
 - Produtos com maior impacto financeiro claramente identificados
 
----
 
-## 🚀 Como usar
-1. Baixe o arquivo `.pbix`
-2. Abra no Power BI Desktop
-3. Explore os filtros e análises
-
----
-
-## 📁 Arquivos
-- `desh.pbix` → arquivo do dashboard
-- `imagem.png` → preview do projeto
-
----
 
 ## 🤝 Contato
 Fique à vontade para dar feedback ou conectar comigo no LinkedIn!
+https://www.linkedin.com/in/mmarcusvinicius/
